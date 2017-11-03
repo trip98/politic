@@ -1,0 +1,1 @@
+BullseyeCoverage 8.13.13 error 15: Cannot find C:\Windows\system32/test.cov. COVFILE is not set, errno=2. Executable is C:\Users\Trip18\AppData\Local\Temp\ham3DB6.tmp
